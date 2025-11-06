@@ -1,0 +1,6 @@
+﻿  problem 1.cpp
+  problem 2.cpp
+  Generating Code...
+problem 2.obj : error LNK2005: main already defined in problem 1.obj
+problem 3.obj : error LNK2005: main already defined in problem 1.obj
+C:\Users\gagec\OneDrive - University of La Verne\School\Programming Concepts\Midterm\Midterm-Carlisle\x64\Debug\Midterm-Carlisle.exe : fatal error LNK1169: one or more multiply defined symbols found
