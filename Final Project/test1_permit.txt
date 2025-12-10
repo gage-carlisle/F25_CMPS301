@@ -1,0 +1,4 @@
+---- PARKING PERMIT ----
+Student: gage
+Plate:   test1
+-------------------------
